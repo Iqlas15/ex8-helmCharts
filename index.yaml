@@ -14,7 +14,7 @@ entries:
     - https://dev.azure.com/exatetechnology/exatetechnology/_git/ex8ETL
     urls:
     - https://github.com/Iqlas15/ex8-helmCharts/releases/download/exateetljobsqlserver-1.0.1/exateetljobsqlserver-1.0.1.tgz
-    version: 1.0.0
+    version: 1.0.1
   exateetlunitofworksqlserver:
   - apiVersion: v3
     created: "2020-06-01T15:24:35.111780638-05:00"
@@ -29,5 +29,5 @@ entries:
     - https://dev.azure.com/exatetechnology/exatetechnology/_git/ex8ETL
     urls:
     - https://github.com/Iqlas15/ex8-helmCharts/releases/download/exateetlunitofworksqlserver-1.0.1/exateetlunitofworksqlserver-1.0.1.tgz
-    version: 1.0.0
+    version: 1.0.1
 generated: "2020-06-01T15:24:34.643286838-05:00"
